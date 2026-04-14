@@ -1,0 +1,4 @@
+oss2
+Pillow
+PySide6
+PyInstaller
