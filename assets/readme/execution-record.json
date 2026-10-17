@@ -1,0 +1,12 @@
+{
+  "repo": "GISWLH/Alibaba-Oss-Monsoon-Vault",
+  "environment": "EHPC PBS",
+  "execution_scope": "Original configuration/path-normalization helper executed on explicit example values. No OSS credentials, bucket access, upload or download was used.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "29559f8ed0ea7e54932b87bb1aee1ba5a4f18e67bbb89c4d63fa0b46c2443631"
+  },
+  "browser": "Firefox 91.10 ESR",
+  "source_modified": false
+}

@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![Alibaba-Oss-Monsoon-Vault — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # Monsoon Vault
 
 ![Monsoon Vault Logo](docs/images/logo.png)
@@ -125,3 +129,18 @@ Then edit it with your OSS credentials and bucket settings:
 - The desktop app currently prefers `oss_drive/assets/app_icon.png` as its runtime icon.
 - `oss_drive_config.json` is intentionally gitignored so real credentials do not enter the repository.
 - For public release, replace long-lived AccessKey credentials with STS or another short-lived credential flow.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Demonstration captured on EHPC · 17 October 2026
+
+![Original configuration/path-normalization helper executed on explicit example values. No OSS credentials, bucket access, upload or download was used.](assets/readme/execution-result.png)
+
+Original configuration/path-normalization helper executed on explicit example values. No OSS credentials, bucket access, upload or download was used.
+
+[Execution record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->
